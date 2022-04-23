@@ -1,0 +1,36 @@
+<canvas id="rich-man-role"></canvas>
+<canvas id="rich-man-build"></canvas>
+<canvas id="rich-man-map"></canvas>
+<div class="role-list">
+    <div class="role-list-info"></div>
+    <div class="role-control">
+        <div class="role-control-dice">掷色子</div>
+        <div class="role-control-buy">购买</div>
+        <div class="role-control-pack">背包</div>
+        <div class="role-control-jump">跳过</div>
+    </div>
+    <div id="role-current-time">*</div>
+</div>
+<div class="role-package" data-packname>
+    <div class="role-package-close">X</div>
+    <div class="role-package-list">
+    </div>
+</div>
+<div id="role-dice">
+    <div class="role-dice-list">
+        <div class="role-dice-delta">1</div>
+        <div class="role-dice-delta">2</div>
+        <div class="role-dice-delta">3</div>
+    </div>
+    <div class="role-dice-list">
+        <div class="role-dice-delta">8</div>
+        <div class="role-dice-delta"></div>
+        <div class="role-dice-delta">4</div>
+    </div>
+    <div class="role-dice-list">
+        <div class="role-dice-delta">7</div>
+        <div class="role-dice-delta">6</div>
+        <div class="role-dice-delta">5</div>
+    </div>
+</div>
+<div id="rich-man-talk"></div>
